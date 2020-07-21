@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ICS123Lab2Scene.unity
+  isLoaded: 1
+  isActive: 1
